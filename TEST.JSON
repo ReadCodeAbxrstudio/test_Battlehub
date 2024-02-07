@@ -1,24 +1,32 @@
-[
-    {
-        "ID": "001",
-        "name": "Object 1",
-        "imageURL": "https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/window-girl.jpg",
-        "physicalSize": {
-            "x": 2.0,
-            "y": 1.5
-        },
-        "SetSpecifySize": true,
-        "editScaler": 1.0
-    },
-    {
-        "ID": "002",
-        "name": "Object 2",
-        "imageURL": "https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/newyellow-icon.png",
-        "physicalSize": {
-            "x": 1.0,
-            "y": 1.0
-        },
-        "SetSpecifySize": true,
-        "editScaler": 0.8
-    } 
-]
+{
+   "NewLibs":[
+      {
+         "ID":"001",
+         "name":"OPJECT1",
+         "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/window-girl.jpg",
+         "trackerImage":{
+            "instanceID":0
+         },
+         "physicalSize":{
+            "x":1.0,
+            "y":1.0
+         },
+         "SetSpecifySize":true,
+         "editScaler":0.0
+      },
+      {
+         "ID":"002",
+         "name":"OPJECT2",
+         "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/newyellow-icon.png",
+         "trackerImage":{
+            "instanceID":0
+         },
+         "physicalSize":{
+            "x":1.0,
+            "y":1.0
+         },
+         "SetSpecifySize":true,
+         "editScaler":0.0
+      }
+   ]
+}
