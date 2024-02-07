@@ -1,0 +1,22 @@
+[
+    {
+        "ID": "001",
+        "name": "Object 1",
+        "imageURL": "https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/window-girl.jpg",
+        "physicalSize": {
+            "x": 2.0,
+            "y": 1.5
+        },
+        "editScaler": 1.0
+    },
+    {
+        "ID": "002",
+        "name": "Object 2",
+        "imageURL": "https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/newyellow-icon.png",
+        "physicalSize": {
+            "x": 1.0,
+            "y": 1.0
+        },
+        "editScaler": 0.8
+    } 
+]
