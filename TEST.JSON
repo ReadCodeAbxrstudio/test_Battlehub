@@ -1,31 +1,20 @@
 {
    "NewLibs":[
       {
-         "ID":"001",
+        
          "name":"OPJECT1",
          "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/one.png",
          "trackerImage":{
             "instanceID":0
          },
-         "physicalSize":{
-            "x":1.0,
-            "y":1.0
-         },
-         "SetSpecifySize":true,
          "editScaler":0.5
       },
       {
-         "ID":"002",
          "name":"OPJECT2",
          "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/two.png",
          "trackerImage":{
             "instanceID":0
          },
-         "physicalSize":{
-            "x":1.0,
-            "y":1.0
-         },
-         "SetSpecifySize":true,
          "editScaler":1.5
       }
    ]
