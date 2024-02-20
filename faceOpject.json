@@ -5,8 +5,8 @@
          "glbFileUrl":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/pirate_hat.glb",
          "position":{
             "x":0.0,
-            "y":0.0,
-            "z":0.0
+            "y":0.0156,
+            "z":0.0244
          },
          "rotation":{
             "x":0.0,
@@ -15,9 +15,9 @@
             "w":0.0
          },
          "scale":{
-            "x":0.0,
-            "y":0.0,
-            "z":0.0
+            "x":0.001611216,
+            "y":0.001611216,
+            "z":0.001611216
          }
       },
       {
