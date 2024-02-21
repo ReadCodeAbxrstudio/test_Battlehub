@@ -24,20 +24,20 @@
          "ObjectName":"Sporty Spectactles",
          "glbFileUrl":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/sporty_spectactles.glb",
          "position":{
-            "x":0.0,
-            "y":0.02685547,
-            "z":-0.06610107
+            "x":-0.003479004,
+            "y":-0.1340332,
+            "z":-0.1183929
          },
          "rotation":{
             "x":0.0,
-            "y":178.5755,
+            "y":0.0,
             "z":0.0,
             "w":0.0
          },
          "scale":{
-            "x":0.003035478,
-            "y":0.003035478,
-            "z":0.003035478
+            "x":0.02373372,
+            "y":0.02373372,
+            "z":0.02373372
          }
       }
    ]
