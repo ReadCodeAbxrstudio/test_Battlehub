@@ -21,26 +21,6 @@
             "y":0.00153883,
             "z":0.00153883
          }
-      },
-      {
-         "ObjectName":"Sporty Spectactles",
-         "glbFileUrl":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/sporty_spectactles.glb",
-         "position":{
-            "x":-0.003479004,
-            "y":-0.1340332,
-            "z":-0.1183929
-         },
-         "rotation":{
-            "x":0.0,
-            "y":0.0,
-            "z":0.0,
-            "w":0.0
-         },
-         "scale":{
-            "x":0.02373372,
-            "y":0.02373372,
-            "z":0.02373372
-         }
-      }
+      } 
    ]
 }
