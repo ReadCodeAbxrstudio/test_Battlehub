@@ -1,4 +1,6 @@
 {
+   "faceMaskUrl":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/canonical_face_model_uv_visualization.png",
+   "UseFaceMask":true,
    "objects":[
       {
          "ObjectName":"Pirate hat ",
