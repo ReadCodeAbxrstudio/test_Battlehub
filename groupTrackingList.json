@@ -8,7 +8,7 @@
             "trackerImage":{
                "instanceID":0
             },
-            "editScaler":0.5,
+            "editScaler":1,
             "loaded":false
          },
          "imageTransform":{
