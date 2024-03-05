@@ -2,7 +2,7 @@
    "groupTrackingList":[
       {
          "imageOrientation":0,
-          "imageLibrary":{
+         "imageLibrary":{
             "name":"OPJECT1",
             "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/one.png",
             "trackerImage":{
@@ -34,7 +34,7 @@
             {
                "ID":"",
                "position":{
-                  "x":10.0,
+                  "x":-0.33500000834465029,
                   "y":0.0,
                   "z":0.0
                },
@@ -53,9 +53,9 @@
             {
                "ID":"",
                "position":{
-                  "x":10.378000259399414,
+                  "x":0.24699999392032624,
                   "y":0.0,
-                  "z":-0.31299999356269839
+                  "z":-0.03099999949336052
                },
                "rotation":{
                   "x":0.0,
