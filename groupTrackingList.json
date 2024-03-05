@@ -1,73 +1,53 @@
 {
    "groupTrackingList":[
       {
-         "imageOrientation":0,
          "imageLibrary":{
-            "name":"OPJECT1",
-            "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/one.png",
-            "trackerImage":{
-               "instanceID":0
-            },
-            "editScaler":0.3,
-            "loaded":false
-         },
-         "imageTransform":{
-            "ID":"",
             "position":{
                "x":0.008999999612569809,
-               "y":0.0,
-               "z":0.02199999988079071
+               "y":0.4440000057220459,
+               "z":0.4869999885559082
             },
             "rotation":{
-               "x":0.0,
+               "x":0.7071068286895752,
                "y":0.0,
                "z":0.0,
-               "w":1.0
+               "w":0.7071068286895752
             },
             "scale":{
                "x":1.0,
                "y":0.009999999776482582,
                "z":1.0
-            }
-         },
-         "gameObjectsTransform":[
-            {
-               "ID":"",
-               "position":{
-                  "x":-0.33500000834465029,
-                  "y":0.0,
-                  "z":0.0
-               },
-               "rotation":{
-                  "x":0.0,
-                  "y":0.0,
-                  "z":0.0,
-                  "w":1.0
-               },
-               "scale":{
-                  "x":0.01888900063931942,
-                  "y":0.01888900063931942,
-                  "z":0.01888900063931942
-               }
             },
+            "iD":"one",
+            "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/one.png",
+            "trackerImage":{
+               "instanceID":0
+            },
+            "Orientation":1,
+            "editScaler":0.5,
+            "loaded":false
+         },
+         "glbLibrary":[
             {
-               "ID":"",
                "position":{
-                  "x":0.24699999392032624,
+                  "x":0.017791390419006349,
                   "y":0.0,
-                  "z":-0.03099999949336052
+                  "z":0.11990535259246826
                },
                "rotation":{
                   "x":0.0,
-                  "y":0.0,
+                  "y":0.7388488054275513,
                   "z":0.0,
-                  "w":1.0
+                  "w":0.6738713383674622
                },
                "scale":{
-                  "x":0.01888900063931942,
-                  "y":0.01888900063931942,
-                  "z":0.01888900063931942
-               }
+                  "x":0.0012120000319555402,
+                  "y":0.0012120000319555402,
+                  "z":0.0012120000319555402
+               },
+               "iD":"monster_plant",
+               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/monster_plant.glb",
+               "loaded":false
             }
          ]
       }
