@@ -30,24 +30,27 @@
          "glbLibrary":[
             {
                "position":{
-                  "x":0.017791390419006349,
-                  "y":0.0,
-                  "z":0.11990535259246826
+                  "x":0.3889999985694885,
+                  "y":0.0430000014603138,
+                  "z":-0.3529999852180481
                },
                "rotation":{
                   "x":0.0,
-                  "y":0.7388488054275513,
+                  "y":0.0,
                   "z":0.0,
-                  "w":0.6738713383674622
+                  "w":1.0
                },
                "scale":{
-                  "x":0.0012120000319555402,
-                  "y":0.0012120000319555402,
-                  "z":0.0012120000319555402
+                  "x":0.17799000442028047,
+                  "y":0.17799000442028047,
+                  "z":0.17799000442028047
                },
-               "iD":"monster_plant",
-               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/monster_plant.glb",
-               "loaded":false
+               "iD":"low_poly_kitchen",
+               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/low_poly_kitchen.glb",
+               "loaded":false,
+               "GameObject":{
+                  "instanceID":0
+               }
             }
          ]
       }
