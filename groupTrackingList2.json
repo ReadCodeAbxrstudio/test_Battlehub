@@ -51,31 +51,8 @@
                "GameObject":{
                   "instanceID":0
                }
-            },
-            {
-               "position":{
-                  "x":0.029999999329447748,
-                  "y":0.04800000041723251,
-                  "z":-0.35499998927116396
-               },
-               "rotation":{
-                  "x":0.0,
-                  "y":0.0,
-                  "z":0.0,
-                  "w":1.0
-               },
-               "scale":{
-                  "x":0.07495882362127304,
-                  "y":0.07495882362127304,
-                  "z":0.07495882362127304
-               },
-               "iD":"grey_matter_ben_10_vilgax_attacks_fan_model",
-               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/grey_matter_ben_10_vilgax_attacks_fan_model.glb",
-               "loaded":false,
-               "GameObject":{
-                  "instanceID":0
-               }
             }
+            
          ]
       }
    ]
