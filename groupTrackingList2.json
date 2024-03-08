@@ -24,7 +24,7 @@
                "instanceID":0
             },
             "Orientation":1,
-            "editScaler":0.5,
+            "editScaler":0.1,
             "loaded":false
          },
          "glbLibrary":[
