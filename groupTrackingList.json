@@ -1,4 +1,4 @@
-{
+ {
    "groupTrackingList":[
       {
          "imageLibrary":{
@@ -18,7 +18,7 @@
                "y":0.009999999776482582,
                "z":1.0
             },
-            "iD":"Floor Vertical",
+            "iD":"one",
             "imageURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/Screenshot 2024-03-11 141753.png",
             "trackerImage":{
                "instanceID":0
@@ -28,12 +28,11 @@
             "loaded":false
          },
          "glbLibrary":[
-             
             {
                "position":{
-                  "x":0.029999999329447748,
-                  "y":0.04800000041723251,
-                  "z":-0.35499998927116396
+                  "x":0.3889999985694885,
+                  "y":0.0430000014603138,
+                  "z":-0.3529999852180481
                },
                "rotation":{
                   "x":0.0,
@@ -42,19 +41,19 @@
                   "w":1.0
                },
                "scale":{
-                  "x":0.07495882362127304,
-                  "y":0.07495882362127304,
-                  "z":0.07495882362127304
+                  "x":0.1386595517396927,
+                  "y":0.1386595517396927,
+                  "z":0.1386595517396927
                },
-               "iD":"grey_matter_ben_10_vilgax_attacks_fan_model",
-               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/grey_matter_ben_10_vilgax_attacks_fan_model.glb",
+               "iD":"low_poly_kitchen",
+               "GlbURL":"https://raw.githubusercontent.com/ReadCodeAbxrstudio/test_Battlehub/main/low_poly_kitchen.glb",
                "loaded":false,
                "GameObject":{
                   "instanceID":0
                }
             }
-         ]
-      } 
+            
          ]
       }
-  
+   ]
+}
